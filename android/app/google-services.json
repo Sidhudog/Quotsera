@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900394119504",
+    "project_id": "quotsera",
+    "storage_bucket": "quotsera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900394119504:android:26da3152dda4850c70fc55",
+        "android_client_info": {
+          "package_name": "com.example.qoutsera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900394119504-81n5g590uou0401rs12mu9dai52bh1qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIqQs7sh5Fg9htAkPrfg7towm_NhWUOlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900394119504-81n5g590uou0401rs12mu9dai52bh1qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
